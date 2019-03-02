@@ -1,4 +1,5 @@
 //Binary Search
+//Edgar Eguía Calcáneo
 
 using System;
 using System.Collections.Generic;
