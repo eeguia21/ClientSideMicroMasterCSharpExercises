@@ -1,1 +1,1 @@
-# ClientSideMicroMasterCSharpExercises
+# MicroMasterCSharpExercises
