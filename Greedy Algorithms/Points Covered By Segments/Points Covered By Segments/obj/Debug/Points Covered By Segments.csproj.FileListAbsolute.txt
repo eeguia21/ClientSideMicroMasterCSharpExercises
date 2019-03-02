@@ -1,0 +1,6 @@
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Points Covered By Segments\Points Covered By Segments\bin\Debug\Points Covered By Segments.exe.config
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Points Covered By Segments\Points Covered By Segments\bin\Debug\Points Covered By Segments.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Points Covered By Segments\Points Covered By Segments\bin\Debug\Points Covered By Segments.pdb
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Points Covered By Segments\Points Covered By Segments\obj\Debug\Points Covered By Segments.csproj.CoreCompileInputs.cache
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Points Covered By Segments\Points Covered By Segments\obj\Debug\Points Covered By Segments.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Points Covered By Segments\Points Covered By Segments\obj\Debug\Points Covered By Segments.pdb

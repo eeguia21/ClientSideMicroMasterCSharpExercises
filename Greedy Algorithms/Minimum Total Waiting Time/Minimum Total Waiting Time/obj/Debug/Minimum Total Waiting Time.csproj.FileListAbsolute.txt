@@ -1,0 +1,7 @@
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\bin\Debug\Minimum Total Waiting Time.exe.config
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\bin\Debug\Minimum Total Waiting Time.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\bin\Debug\Minimum Total Waiting Time.pdb
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\obj\Debug\Minimum Total Waiting Time.csprojAssemblyReference.cache
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\obj\Debug\Minimum Total Waiting Time.csproj.CoreCompileInputs.cache
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\obj\Debug\Minimum Total Waiting Time.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Minimum Total Waiting Time\Minimum Total Waiting Time\obj\Debug\Minimum Total Waiting Time.pdb

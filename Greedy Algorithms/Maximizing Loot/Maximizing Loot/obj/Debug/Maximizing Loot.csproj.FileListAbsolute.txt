@@ -1,0 +1,6 @@
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Maximizing Loot\Maximizing Loot\bin\Debug\Maximizing Loot.exe.config
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Maximizing Loot\Maximizing Loot\bin\Debug\Maximizing Loot.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Maximizing Loot\Maximizing Loot\bin\Debug\Maximizing Loot.pdb
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Maximizing Loot\Maximizing Loot\obj\Debug\Maximizing Loot.csproj.CoreCompileInputs.cache
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Maximizing Loot\Maximizing Loot\obj\Debug\Maximizing Loot.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Maximizing Loot\Maximizing Loot\obj\Debug\Maximizing Loot.pdb

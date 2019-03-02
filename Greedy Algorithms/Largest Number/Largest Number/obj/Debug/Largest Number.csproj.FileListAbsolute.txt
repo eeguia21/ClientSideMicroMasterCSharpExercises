@@ -1,0 +1,6 @@
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Largest Number\Largest Number\bin\Debug\Largest Number.exe.config
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Largest Number\Largest Number\bin\Debug\Largest Number.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Largest Number\Largest Number\bin\Debug\Largest Number.pdb
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Largest Number\Largest Number\obj\Debug\Largest Number.csproj.CoreCompileInputs.cache
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Largest Number\Largest Number\obj\Debug\Largest Number.exe
+C:\Users\eegui\Desktop\Micromaster\Greedy Algorithms\Largest Number\Largest Number\obj\Debug\Largest Number.pdb
